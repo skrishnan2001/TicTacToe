@@ -1,6 +1,6 @@
-#TicTacToe game built using react-native
+# TicTacToe game built using react-native
 
-##Installation Guide
+## Installation Guide
 
 1.	npm install --global expo-cli
 2.	expo init TicTacToe
