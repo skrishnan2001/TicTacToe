@@ -1,4 +1,4 @@
-TicTacToe game built using react-native
+-TicTacToe game built using react-native
 
 Installation Guide
 
