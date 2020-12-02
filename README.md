@@ -1,6 +1,6 @@
--TicTacToe game built using react-native
+#TicTacToe game built using react-native
 
-Installation Guide
+##Installation Guide
 
 1.	npm install --global expo-cli
 2.	expo init TicTacToe
@@ -12,7 +12,7 @@ Expo client : (Deployment phase)
 	Android :https://play.google.com/store/apps/details?id=host.exp.exponent 
 	Ios : https://apps.apple.com/us/app/expo-client/id982107779 
 
-Final Build(APK):
+##Final Build(APK):
 
 npm run eject - don't this immediately. Do it only when you finished the entire app
 
